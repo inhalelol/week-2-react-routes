@@ -1,9 +1,10 @@
 import React from 'react'
-import Header from './header'
 import { Switch, Route } from 'react-router-dom'
+import Header from './header'
 import Dashboard from './dashboard'
 import Main from './main'
 import Profile from './profile'
+
 const Home = () => {
   return (
     <div>
