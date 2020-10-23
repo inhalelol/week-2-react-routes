@@ -29,6 +29,7 @@ const Header = () => {
           <a
             href="https://www.google.com"
             target="blank"
+            rel="noopener noreferrer"
             className="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white"
           >
             <svg
